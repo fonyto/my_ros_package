@@ -1,0 +1,6 @@
+Invoking command in '/home/julian/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/julian/dev_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/julian/dev_ws/install/my_package
+Invoked command in '/home/julian/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/julian/dev_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/julian/dev_ws/install/my_package
+Invoking command in '/home/julian/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/julian/dev_ws/build/my_package -- -j4 -l4
+Invoked command in '/home/julian/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/julian/dev_ws/build/my_package -- -j4 -l4
+Invoking command in '/home/julian/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/julian/dev_ws/build/my_package
+Invoked command in '/home/julian/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/julian/dev_ws/build/my_package
