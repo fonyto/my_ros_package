@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>My first Package</description>
+  <description>My first Package modificado</description>
   <maintainer email="julian@todo.todo">julian</maintainer>
   <license>TODO: License declaration</license>
 
